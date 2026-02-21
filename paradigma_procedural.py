@@ -22,3 +22,4 @@ print("Vehiculos: ", vehiculos)
 registrar_salida(vehiculos,"AAA111")
 
 print("Después de salida: ", vehiculos)
+## pasos de sabado 21022026
